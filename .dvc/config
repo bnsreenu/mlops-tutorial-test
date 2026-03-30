@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = C:\Users\m6sbhatt\Desktop\temp_ml_ops\dvc-remote
